@@ -1,6 +1,6 @@
 # Food DataSet
 #### This datasets are provided by deep learning contest 2016 by [Nvidia Korea](http://kr.nvidia.com/).
-#### And they got most of data from [Food 101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/).
+#### And they answered that some of data are from [Food 101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/).
 
 # Download
 #### We don't have enough server to provide this data. So we linked it to Google drive.
