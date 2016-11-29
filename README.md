@@ -11,7 +11,7 @@
 
 ### Train / Validation set
 
-| Label         | Image binary (numpy uint8)  |
+| Label   no    | Image binary (numpy uint8)  |
 | ------------- |:---------------------------:| 
 | 1byte         | 256x256x3 bytes             |
 
