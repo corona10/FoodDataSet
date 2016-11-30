@@ -3,12 +3,18 @@
 #### And they answered that some of data are from [Food 101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/).
 
 # Download
-#### We don't have enough server to provide this data. So we linked it to Google drive.
-#### If somebody want to add download link, please contact to us.
+#### Github is limited to upload all data set, so we decide to upload to external storage.
+#### Byt we don't have enough server to provide this data. So we linked it to Google drive.
+#### If anybody want to add download link, please contact to us.
 
 | Download Link | MD5  |
 | --------------|:----:|
 |   [Google Drive hosted by Chungnam National University](https://drive.google.com/file/d/0B_lM0116PvbEOVR4MVBmdXMwX3M/view?usp=sharing)            | 6780d6b556699d9b6db102406de8ef7f     |
+
+# Usage
+* First, download all data.tar.gz and extract to where you want to work on it.
+* Second, modify `BINARY_FILES_DIR` on config.py to where you extract.
+* Finally, run tensorflow. You can use your own library or please refer our nvidia_input.py.
 
 # Data description
 
