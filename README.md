@@ -11,7 +11,7 @@
 | --------------|:----:|
 |   [Google Drive hosted by Chungnam National University](https://drive.google.com/file/d/0B_lM0116PvbEOVR4MVBmdXMwX3M/view?usp=sharing)            | 6780d6b556699d9b6db102406de8ef7f     |
 
-# Usage
+# How to use
 * First, download all data.tar.gz and extract to where you want to work on it.
 * Second, modify `BINARY_FILES_DIR` on config.py to where you extract.
 * Finally, run tensorflow. You can use your own library or please refer our nvidia_input.py.
