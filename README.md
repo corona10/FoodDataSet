@@ -150,6 +150,6 @@
 ### Contributor
 | name         | email                     | Organization            |
 |--------------|---------------------------|-------------------------|
-| Donghee Na   | corona10@gmail.com        | Chungnam National Univ. |
+| Dong-hee Na   | corona10@gmail.com        | Chungnam National Univ. |
 | Sanggi Hong  | sanggi.hong11@gmail.com   | Chungnam National Univ. |
 | Sanghee Lee  | sanghee.lee1992@gmail.com | Chungnam National Univ. |
