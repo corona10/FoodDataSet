@@ -4,7 +4,7 @@
 
 # Download
 #### Github is limited to upload all data set, so we decide to upload to external storage.
-#### Byt we don't have enough server to provide this data. So we linked it to Google drive.
+#### But we don't have enough server to provide this data. So we linked it to Google drive.
 #### If anybody want to add download link, please contact to us.
 
 | Download Link | MD5  |
