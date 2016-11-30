@@ -8,7 +8,7 @@
 
 | Download Link | MD5  |
 | --------------|:----:|
-|               |      |
+|   [Google Drive by cs-cnu.org](https://drive.google.com/file/d/0B_lM0116PvbEOVR4MVBmdXMwX3M/view?usp=sharing)            | 6780d6b556699d9b6db102406de8ef7f     |
 
 # Data description
 
